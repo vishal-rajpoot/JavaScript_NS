@@ -26,4 +26,3 @@ function divideNumbers(num, den) {
   //returning the resukt
   return result;
 }
-
